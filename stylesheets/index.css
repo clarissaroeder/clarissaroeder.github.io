@@ -65,6 +65,12 @@ main {
   width: 100vw;
 }
 
+header .portrait{
+  border: 2px solid white;
+  border-radius: 180px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 .portrait {
   border: 3px solid white;
   border-radius: 180px;
@@ -269,8 +275,8 @@ li {
   }
 
   header svg {
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
   }
 
   main .profile-container {
@@ -355,8 +361,8 @@ li {
   }
 
   header svg {
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
   }
 
   main .profile-container {
