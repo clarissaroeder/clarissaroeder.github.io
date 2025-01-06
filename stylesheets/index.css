@@ -115,6 +115,11 @@ a {
   text-decoration: none;
 }
 
+.resume-container a:hover, 
+.resume-container a:hover svg {
+  color: #9C2013;
+  fill: #9C2013;
+}
 svg {
   transition: fill 0.2s ease;
 }
